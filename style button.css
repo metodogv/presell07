@@ -1,13 +1,13 @@
 .btn{
-	padding: 10px 30px 10px 30px;
-	margin-bottom: 50px;
-	width: 450px;
+	padding: 30px 60px 30px 60px;
+	margin-bottom: 70px;
+	width: 600px;
 	background: #00BC1A;
 	border: 1px solid #FFFFFF;
 	border-radius: 5px;
 	font-family: sans-serif;
 	font: bolder;
-	font-size: 20px;
+	font-size: 30px;
 	text-align: center;
 	user-select: none;
 	cursor: pointer;
